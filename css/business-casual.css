@@ -146,7 +146,7 @@ p {
 .cta {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgba(230, 167, 86, 0.9);
+  background-color: #56bde6;
 }
 
 .cta .cta-inner {
@@ -203,7 +203,7 @@ p {
 }
 
 .list-hours .list-hours-item {
-  border-bottom: 1px solid rgba(230, 167, 86, 0.5);
+  border-bottom: 1px solid #56bde6;
   padding-bottom: .25rem;
   margin-bottom: 1rem;
   font-style: italic;
@@ -248,8 +248,8 @@ p {
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #3d4545;
-  border-color: ##262929;
+  background-color: #56bde6;
+  border-color: ##56bde6;
 }
 
 .font-weight-light {
